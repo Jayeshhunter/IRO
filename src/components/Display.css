@@ -1,0 +1,15 @@
+.the-two {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 220px;
+  align-items: center;
+}
+h4 {
+  color: #5200f5;
+}
+.cancel {
+  background-color: #d6c0ff;
+  color: #8863ce;
+  border-radius: 0;
+}
